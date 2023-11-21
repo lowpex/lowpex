@@ -2,7 +2,7 @@
 
 - ⌨ I’m currently learning python
 - 😀 Really like tech!
-- 🔞 I'm not 18 yet
+- 🔞 Not 18 yet
 - 🎩 I was a magician, and I still really like magic!
 - 🎮 gaming & VR
 
