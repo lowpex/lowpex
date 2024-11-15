@@ -1,12 +1,11 @@
-👋 Hi, I’m @lowpex
+👋 Hi, I’m @lowpex!
 
-- ⌨ I’m currently learning python
-- 😀 Really like tech!
-- 🔞 Not 18 yet
-- 🎩 I was a magician, and I still really like magic!
-- 🎮 gaming & VR
+💻 Tech & science lover
+🔞 Not 18 yet
+🌐 Into machine learning, cyber & more!!
+🧠 Quantum mechanics at university
 
-And I think thats all you need to know for now!
+And I think thats all you need to know for now!🚀
 
 <!---
 lowpex/lowpex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
